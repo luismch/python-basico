@@ -7,7 +7,7 @@
 #print(sumatoria)
 
 def conversor(tipo_pesos, valor_dolar):
-    pesos = input("¿cuantos pesos" + tipo_pesos + " tienes?:  ")
+    pesos = input("¿cuantos pesos " + tipo_pesos + " tienes?:  ")
     pesos = float(pesos)
     dolares = pesos/valor_dolar
     dolares = round(dolares,  2)
