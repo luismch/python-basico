@@ -1,6 +1,3 @@
-from wsgiref.validate import validator
-
-
 pesos = input("¿cuantos pesos colombianos tienes?:  ")
 pesos = float(pesos)
 valor_dolar = 3875
