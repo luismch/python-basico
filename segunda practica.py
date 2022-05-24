@@ -11,3 +11,4 @@ elif numero == 5:
     print("es igual a 5")
 else:
     print("es menor a 5")
+    
