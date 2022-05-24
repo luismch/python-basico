@@ -1,6 +1,13 @@
-edad = int(input("escribe tu edaad: "))
-if edad > 17:
-    print("eres mayor de edad")
+# edad = int(input("escribe tu edaad: "))
+# if edad > 17:
+#    print("eres mayor de edad")
+# else:
+#    print("eres menor de edad")
+
+numero = int(input("escribe un numero: "))
+if numero > 5:
+    print("es mayor a 5")
+elif numero == 5:
+    print("es igual a 5")
 else:
-    print("eres menor de edad")
-1
+    print("es menor a 5")
